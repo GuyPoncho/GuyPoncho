@@ -2,7 +2,7 @@
 - 👀 Interested in Game and Software Development for PC/Smartphone and 3D Modelling/CGI.
 - 🌱 Currently learning Swift for IOS/MacOS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contacts: pedro.mgteixeira@hotmail.com
 
 <!---
 GuyPoncho/GuyPoncho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
